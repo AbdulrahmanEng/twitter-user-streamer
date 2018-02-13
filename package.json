@@ -1,0 +1,17 @@
+{
+  "name": "twitterstreamapi",
+  "version": "1.0.0",
+  "description": "App for getting stream of tweets.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "bydeinon.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "dotenv": "^4.0.0",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
+  }
+}
